@@ -10,13 +10,11 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mikhalev.aleksei1@gmail.com)
 
 
-&nbsp;
-
 <!-- Talking about you -->
 **My current tasks:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AlekseiMikhalev/AlekseiMikhalev/main/logo.webp" />
+<img width="55%" align="right" alt="Github" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/logo2.webp" />
 
 - 👨🏽‍💻 I’m currently working on building robust and efficient boilerplate for ML-based projects;
 - 🌱 I’m currently learning best practices of microservices architecture and how to build robust and scalable ML pipelines; 
