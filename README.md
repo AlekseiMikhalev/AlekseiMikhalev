@@ -41,7 +41,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/django.svg"></code>
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/docker.svg"></code>
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/numpy.svg"></code>
-  <br />
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/pandas.svg"></code>
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/pytorch.svg"></code>
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/tensorflow.svg"></code>
