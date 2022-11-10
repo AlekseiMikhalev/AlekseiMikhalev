@@ -38,5 +38,21 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/python.svg"></code>
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/fastapi.svg"></code>
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/flask.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/django.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/docker.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/numpy.svg"></code>
   <br />
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/pandas.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/pytorch.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/tensorflow.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/spacy.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/postgresql.svg"></code>
+  <br />
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/jupyter.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/amazonaws.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/microsoftazure.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/poetry.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/react.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/javascript.svg"></code>
+  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/postman.svg"></code>
 </p>
