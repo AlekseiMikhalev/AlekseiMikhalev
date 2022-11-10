@@ -35,7 +35,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/python.svg"></code>
+  <code><img width="200px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/python.svg"></code>
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/fastapi.svg"></code>
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/flask.svg"></code>
   <code><img width="10%" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/django.svg"></code>
