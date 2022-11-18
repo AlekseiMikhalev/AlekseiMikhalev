@@ -16,7 +16,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/logo2.webp" />
 
-- I’m currently working on building robust and efficient boilerplate for ML-based projects;
+- I’m currently working on:
+  - building robust and efficient boilerplate for ML-based projects;
+  - pet-project: [programming books summarizer](https://github.com/AlekseiMikhalev/programming-books-summarizer);
 - I’m currently learning best practices of microservices architecture and how to build robust and scalable ML pipelines; 
 - Fun-Fact: I have a law degree and worked as coporate and venture lawyer for about 8 years;
 
