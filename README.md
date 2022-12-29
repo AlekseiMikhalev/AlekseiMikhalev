@@ -21,6 +21,7 @@ You can use the website to generate badges: https://shields.io/
   - pet-project: [programming books summarizer](https://github.com/AlekseiMikhalev/programming-books-summarizer);
 - I’m currently learning best practices of microservices architecture and how to build robust and scalable ML pipelines; 
 - Fun-Fact: I have a law degree and worked as coporate and venture lawyer for about 8 years;
+- [My Digital Mind Palace](https://alekseimikhalev.github.io/mind-palace);
 
 **Languages and Tools:** 
 
