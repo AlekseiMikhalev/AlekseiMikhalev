@@ -18,7 +18,9 @@ You can use the website to generate badges: https://shields.io/
 
 - I’m currently working on:
   - building robust and efficient boilerplate for ML-based projects;
-  - pet-project: [programming books summarizer](https://github.com/AlekseiMikhalev/programming-books-summarizer);
+  - pet-projects: 
+    - [programming books summarizer](https://github.com/AlekseiMikhalev/programming-books-summarizer);
+    - [stock analytics platform](https://github.com/AlekseiMikhalev/stock-analytics-platform);
 - I’m currently learning best practices of microservices architecture and how to build robust and scalable ML pipelines; 
 - Fun-Fact: I have a law degree and worked as coporate and venture lawyer for about 8 years;
 - [My Digital Mind Palace](https://alekseimikhalev.github.io/mind-palace);
