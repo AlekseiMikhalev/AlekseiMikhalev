@@ -17,14 +17,16 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/logo2.webp" />
 
 - I’m currently working on:
+  - [Isocial - social media analytics app](https://github.com/AlekseiMikhalev/isocial/tree/am-dev)
+- I’m currently learning best practices of microservices architecture and how to build robust and scalable data-intensive apps; 
+- Fun-Fact: I have a law degree and worked as coporate and venture lawyer for about 8 years;
+- [My Digital Mind Palace](https://alekseimikhalev.github.io/mind-palace);
+- Projects to do in my spare time:
   - building portfolio of Django and FastAPI based applications:
     - [Django simple blog app](https://github.com/AlekseiMikhalev/django-blog.git);
   - pet-projects: 
     - [programming books summarizer](https://github.com/AlekseiMikhalev/programming-books-summarizer);
     - [stock analytics platform](https://github.com/AlekseiMikhalev/stock_analytics);
-- I’m currently learning best practices of microservices architecture and how to build robust and scalable data-intensive apps; 
-- Fun-Fact: I have a law degree and worked as coporate and venture lawyer for about 8 years;
-- [My Digital Mind Palace](https://alekseimikhalev.github.io/mind-palace);
 
 **Languages and Tools:** 
 
