@@ -23,6 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - [My Digital Mind Palace](https://alekseimikhalev.github.io/mind-palace);
 - Projects to do in my spare time:
   - building portfolio of Django and FastAPI based applications:
+    - [Django car exhibitions aggregator app](https://github.com/AlekseiMikhalev/django-car-exhibitions.git);
     - [Django simple blog app](https://github.com/AlekseiMikhalev/django-blog.git);
   - pet-projects: 
     - [programming books summarizer](https://github.com/AlekseiMikhalev/programming-books-summarizer);
