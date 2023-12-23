@@ -16,8 +16,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/logo2.webp" />
 
-- I’m currently working on:
-  - [Isocial - social media analytics app](https://github.com/AlekseiMikhalev/isocial/tree/am-dev)
+- Please review my Projects tab to see my current project;
 - I’m currently learning best practices of microservices architecture and how to build robust and scalable data-intensive apps; 
 - Fun-Fact: I have a law degree and worked as coporate and venture lawyer for about 8 years;
 - [My Digital Mind Palace](https://alekseimikhalev.github.io/mind-palace);
