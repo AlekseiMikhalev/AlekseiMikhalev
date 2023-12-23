@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Aleksei Mikhalev. Machine Learning Engineer
+## Hi, I'm Aleksei Mikhalev. Software Developer focusing on Machine Learning
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
