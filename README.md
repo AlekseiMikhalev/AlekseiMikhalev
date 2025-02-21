@@ -22,9 +22,8 @@ Software engineer with expertise in machine learning, natural language processin
   - Data crawler, scraper, and feature extraction pipeline.
 
 **What I'm working on now**
-- Building ML-based semantic search solutions
-- Exploring RAG applications for legal document analysis
-- Contributing to open-source NLP projects
+- Building AI-library with Knowledge Graph and LLM chat [dev repo](https://github.com/AlekseiMikhalev/ai-library.git)
+- Upskilling my math skills in ML and MLOps
 
 **Technical Expertise**
 
