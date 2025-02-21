@@ -1,56 +1,62 @@
-<!-- Your title -->
-## Hi, I'm Aleksei Mikhalev. Software Developer focusing on Machine Learning
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+## Hi, I'm Aleksei Mikhalev.
+### Machine Learning Engineer & Fullstack Software Developer
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AlekseiMikhalev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksmihalev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mikhalev.aleksei1@gmail.com)
 
+**Professional Summary**
+Software engineer with expertise in machine learning, natural language processing, and full-stack development. Leveraging my unique background in both law and technology to build innovative solutions for complex business problems.
 
 <!-- Talking about you -->
-**My current tasks:**
+**My recent commercial work**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/logo2.webp" />
 
-- Ongoing commercial development:
-  - RFP Platform: web platform for assisting General Counsels in major companies to hire most suited law firm (legaltech startup). The platform includes web custom search, data mining pipeline, LLMs for text analysis and scoring system.
-- I’m currently learning best practices of microservices architecture and how to build robust and scalable data-intensive apps; 
-- Fun-Fact: I have a law degree and worked as coporate and venture lawyer for about 8 years;
-- [My Digital Mind Palace](https://alekseimikhalev.github.io/mind-palace);
+- **Lexilia - AI-Powered Legal RFP Platform**: Developed a web platform ([Lexilia](https://lexilia.net)) for assisting General Counsels in major companies to hire the most suitable law firm (legaltech startup). The platform includes:
+  - Request for Proposal ('RFP') module that collects data from client users via an RFP form and generates RFP text.
+  - Recommendation module that suggests the most relevant law firms from a Neo4j database using embeddings and graph features.
+  - Pitch module that collects responses to RFPs from law firms.
+  - Analysis module that evaluates client requirements against law firm pitches and scores firms based on a set of features.
+  - Data crawler, scraper, and feature extraction pipeline.
 
-**Languages and Tools:** 
+**What I'm working on now**
+- Building ML-based semantic search solutions
+- Exploring RAG applications for legal document analysis
+- Contributing to open-source NLP projects
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/AlekseiMikhalev">
-    <img width="55%" align="right" alt="Aleksei's github stats" src="https://github-readme-stats.vercel.app/api?username=AlekseiMikhalev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-  </a>
+**Technical Expertise**
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/python.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/fastapi.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/flask.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/django.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/docker.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/numpy.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/pandas.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/pytorch.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/tensorflow.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/spacy.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/postgresql.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/jupyter.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/amazonaws.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/microsoftazure.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/poetry.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/react.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/javascript.svg"></code>
-  <code><img width="50px" src="https://github.com/AlekseiMikhalev/AlekseiMikhalev/blob/main/sources/postman.svg"></code>
-</p>
+```python
+skills = {
+    "Languages": ["Python", "TypeScript", "SQL", "Cypher"],
+    "Machine Learning": {
+        "Main Libraries": [
+            "PyTorch", "Spacy", "Textacy", "Sentence-transformers", "Numpy", "Pandas", "Scikit-learn"
+            ],
+        "Agents Frameworks": ["CrewAI"],
+        "Local LLM running": ["Ollama", "Huggingface"],
+    },
+    "Backend": ["FastAPI", "Django", "Flask"],
+    "Frontend": ["React", "Nextjs", "TailwindCSS"],
+    "Database": ["MongoDB", "LLamaIndex", "Weaviate", "Neo4j", "PostgreSQL", "Redis"],
+    "DevOps": ["Docker", "AWS", "Ansible"],
+    "Git": ["Gitlab", "Github"]
+}
+```
+
+**Key Areas of Expertise:**
+- NLP & Information Retrieval Systems
+- Full-Stack Web Application Development
+- Legal Tech & Document Automation
+- Knowledge Graphs
+
+**Unique Perspective:**
+Prior to engineering, I practiced as a corporate and venture lawyer for 8 years, giving me unique insights into both business needs and technical implementation.
+
+**Open to discussing:**
+- ML/AI Engineering roles
+- Legal Tech consulting
+- Innovative projects at the intersection of law and technology
+- Fullstack applications powered by LLM, RAG (including Graph RAGs)
